@@ -1,6 +1,6 @@
 # Angle and Orientation
 
-C++ project to determine the angle formed by 3 points and its orientation
+C++ project to determine the angle formed by 3 points and its orientation 
 
 ## Prerequisites
 * OpenCV
