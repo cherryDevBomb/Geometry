@@ -10,12 +10,12 @@ C++ project for polygon triangulation by using the Ear-Clipping algorithm.
 ## Demo
 Start with a polygon
 
-<img scr="/Ear Clipping/screenshots/Capture1.PNG" width=500>
+<img src="/Ear Clipping/screenshots/Capture1.PNG" width="200">
 
 After 1 update
 
-<img scr="/Ear Clipping/screenshots/Capture2.PNG" width=500>
+<img src="/Ear Clipping/screenshots/Capture2.PNG" width="200">
 
 After more updates
 
-<img scr="/Ear Clipping/screenshots/Capture3.PNG" width=500>
+<img src="/Ear Clipping/screenshots/Capture3.PNG" width="200">
