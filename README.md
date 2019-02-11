@@ -1,3 +1,3 @@
-# 📐 Geometry Uni Assignments
+# Geometry Uni Assignments
 
-Simple programs implementing some computational geometry algorithms.
+📐 Simple programs implementing some computational geometry algorithms.
