@@ -6,4 +6,4 @@ Python project to determine the angle formed by 3 points and its orientation
 * Python
 * Matplotlib
 
-<img scr="Geometry/Angle and Orientation/Capture.PNG" width="700">
+<img scr="Capture.PNG" width="700">
