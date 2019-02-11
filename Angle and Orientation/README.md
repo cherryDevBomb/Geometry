@@ -1,11 +1,11 @@
 # Angle and Orientation
 
-C++ project to determine the angle formed by 3 points and its orientation 
+Python project to determine the angle formed by 3 points and its orientation 
 
 ## Prerequisites
-* OpenCV
-* cmake
+* Python
+* Matplotlib
 
-<img scr="Capture.PNG" width=700>
+<img scr="/Angle and Orientation/Capture.PNG" width=700>
 
 
