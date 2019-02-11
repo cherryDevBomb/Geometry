@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( ear_clipping )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( ear_clipping ear_clipping.cpp )
+target_link_libraries( ear_clipping ${OpenCV_LIBS} )
